@@ -6,8 +6,7 @@ Nexus is a full-stack web application designed to connect **investors and entrep
 
 ## 🌐 Live Demo
 
-- Frontend: https://your-frontend-url.vercel.app
-- Backend API: https://your-backend-url.onrender.com
+Nexus-Platform: https://vercel.com/javeria2003s-projects/nexus-platform
 
 ---
 
